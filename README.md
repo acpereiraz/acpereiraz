@@ -1,6 +1,6 @@
 ### Hi, im Antonio.👋
 
-Im a IT Support guy and a React Front-end Developer planning to be full-stack one day.
+Im an IT Support guy and a React Front-end Developer planning to be full-stack one day.
 - 📖 Currently working on projects to facilitate my needs and people needs
 - 🎓 I’m currently studying BAS Applied Computer Science at FMU São Paulo
 
